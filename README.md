@@ -3,7 +3,10 @@
 ## [hadoop之旅](http://write.blog.csdn.net/postlist)      
 ******************
 
-
+分享几个项目
+1.mapreduce的实战：同关系
+2.groovy+hive，mr组成的标签
+3.cascading Demo，并且有个实战项目
 
 ### 博文目录
 ******************       
